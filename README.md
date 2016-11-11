@@ -5,6 +5,6 @@ beego完成登录注册的简单实例
 1.克隆项目<br/>
 2.将项目名称改为test<br/>
 3.just bee run<br/>
-<h3><a href="abc.webccsu.cn">点击预览</a></h3>
+<h3><a href="http://abc.webccsu.cn">点击预览</a></h3>
 
 
