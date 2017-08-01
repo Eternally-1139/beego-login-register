@@ -14,6 +14,7 @@
     {{end}}<br>
     {{ .userinfo.Name}}
     <a href="/logout">注销</a>
+    <div></div>
 </div>
 <script src="/static/js/yifan.toast.js"></script>
 </body>
